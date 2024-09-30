@@ -1,4 +1,4 @@
-## Olá, me chamo Felipe Gabriel! 💻
+## Olá, me chamo Felipe Gabriel
 
 - Estou cursando Análise e Desenvolvimento de Sistemas pela UNICID, com término previsto em 12/2025.
 - Também estou terminando um curso técnico de Desenvolvimento de Sistemas pelo Senac, com término previsto em 12/2024.
